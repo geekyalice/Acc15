@@ -6,7 +6,7 @@ public class Fresh {
 		// TODO Auto-generated method stub
 		System.out.println("byeeeee");
 		System.out.println("chal jaaaa");
-		System.out.println("hrgtjkhsrkt");
+	
 	}
 
 }
